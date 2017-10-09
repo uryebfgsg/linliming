@@ -1,0 +1,4 @@
+进入根目录后下载需要的依赖包
+npm install
+然后执行项目
+npm run dev
